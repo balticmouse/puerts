@@ -27,7 +27,7 @@ PuerTS是Unity/UE游戏引擎下的TypeScript编程解决方案
 
 * iOS，Android，Windows，Macos
 
-## Ask for help | 技术支持
+## Ask for help | 技术支持2
 
 [Github Discussion](https://github.com/Tencent/puerts/discussions)
 
